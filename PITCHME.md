@@ -1,2 +1,1 @@
-# HSLIDE
 Hello, Git Pitch!
